@@ -1,0 +1,35 @@
+# Build output
+bin/
+obj/
+*.exe
+*.pdb
+*.dll
+*.cache
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# NuGet packages (restore karo, commit mat karo)
+packages/
+*.nupkg
+*.snupkg
+
+# Database (local data)
+*.db
+*.db-shm
+*.db-wal
+
+# Evidence files (user-generated)
+EvidenceFiles/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
