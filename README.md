@@ -41,7 +41,7 @@ A Windows desktop application for **project & task management with digital evide
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/HamTracker.git
+git clone https://github.com/HamKode/HamTracker
 
 # 2. Open solution
 HamTrackerSolution.slnx  →  Open in Visual Studio
@@ -78,7 +78,17 @@ HamTracker/
 
 ## 📸 Screenshots
 
-> *(Add screenshots here after first run)*
+
+<img width="1348" height="849" alt="Screenshot 2026-05-10 114221" src="https://github.com/user-attachments/assets/e01d2124-5ec0-41b2-b426-504683fcf68d" />
+
+<img width="1176" height="746" alt="Screenshot 2026-05-10 233219" src="https://github.com/user-attachments/assets/4a6d7833-c183-43a9-ae01-f86685c6ac0d" />
+
+<img width="1767" height="942" alt="Screenshot 2026-05-10 114340" src="https://github.com/user-attachments/assets/8ef22a1b-f9a5-4dcd-a2fe-14d50610ea74" />
+
+<img width="1767" height="1075" alt="Screenshot 2026-05-10 114317" src="https://github.com/user-attachments/assets/cbbc034e-5937-42c0-8846-7be2d75a2669" />
+
+<img width="879" height="625" alt="Screenshot 2026-05-10 232939" src="https://github.com/user-attachments/assets/dd5f9c68-d30b-4bc3-aef6-9ce7b7c5d23a" />
+
 
 ---
 
